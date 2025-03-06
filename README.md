@@ -1,3 +1,5 @@
+Copyright @lucabotez
+
 # Mini Shell
 
 ## Overview
